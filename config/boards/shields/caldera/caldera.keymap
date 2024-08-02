@@ -33,7 +33,7 @@
    &trans    &trans         &trans         &trans         &trans         &trans                 &trans    &trans    &trans   &trans   &trans  &trans
    &trans    &trans         &trans         &trans         &trans       &trans                 &trans    &kp LBKT  &kp RBKT &kp MINUS   &kp EQUAL  &trans
    &trans    &trans         &trans         &trans         &trans         &trans                 &trans    &trans    &trans   &trans   &trans  &trans
-   &trans    &trans         &trans         &trans         &trans         &trans                 &trans    &trans    &kp HOME   &kp PG_DN   &kp PG_UP  &END
+   &trans    &trans         &trans         &trans         &trans         &trans                 &trans    &trans    &kp HOME   &kp PG_DN   &kp PG_UP  &kp END
                         >;
                 };
         };
