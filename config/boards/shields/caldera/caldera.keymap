@@ -21,7 +21,7 @@
                                 &trans    &trans         &kp UARW       &trans         &trans         &trans                 &trans       &trans    &trans     &trans      &trans     &trans
                                 &trans    &kp LARW       &kp DARW       &kp RARW       &trans         &trans                 &kp LARW     &kp DARW  &kp UARW   &kp RARW    &trans     &trans
                                 &trans    &trans         &trans         &trans         &trans         &trans                 &trans       &trans    &trans     &trans      &kp UARW   &trans
-                                &trans    &trans         &trans         &trans         &trans         &trans                 &trans       &trans    &trans     &kp LARW    &kp DARW   &kkp UARW
+                                &trans    &trans         &trans         &trans         &trans         &trans                 &trans       &trans    &trans     &kp LARW    &kp DARW   &kp UARW
                         >;
                 };
                 fn_layer {
