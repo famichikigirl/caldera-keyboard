@@ -35,12 +35,6 @@
 &none              &none         &none         &trans           &trans            &none           &none                &trans        &trans        &kp PERIOD    &none      &none
             >;
         };
-
-        extra_3 { status = "reserved"; };
-
-        extra_4 { status = "reserved"; };
-
-        extra_5 { status = "reserved"; };
     };
 };
 
